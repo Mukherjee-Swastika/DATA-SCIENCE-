@@ -481,12 +481,7 @@ MNIST-CNN-Classification/
 
 # ⚙️ Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/MNIST-CNN-Classification.git
-cd MNIST-CNN-Classification
-```
+Clone the repository
 
 Install the required libraries:
 
